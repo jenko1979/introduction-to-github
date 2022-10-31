@@ -7,6 +7,8 @@
 
 # Introduction to GitHub
 
+_testing RStudio_
+
 _Get started using GitHub in less than an hour._
 
 <!-- 
@@ -29,8 +31,6 @@ People use GitHub to build some of the most advanced technologies in the world. 
 - **How long**: This course is four steps long and takes less than one hour to complete.
 
 ## How to start this course
-
-testing RStudio
 
 1. Above these instructions, right-click **Use this template** and open the link in a new tab.
    ![Use this template](https://user-images.githubusercontent.com/1221423/169618716-fb17528d-f332-4fc5-a11a-eaa23562665e.png)
