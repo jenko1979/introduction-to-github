@@ -8,6 +8,7 @@
 # Introduction to GitHub
 
 _testing RStudio_
+_Tag you're it"_
 
 _Get started using GitHub in less than an hour._
 
